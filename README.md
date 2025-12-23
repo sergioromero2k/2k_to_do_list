@@ -3,6 +3,9 @@
 ## Descripción del proyecto
 Crea una aplicación web interactiva de lista de tareas utilizando **React**. La aplicación debe permitir al usuario gestionar sus tareas diarias: agregar, marcar como completadas y eliminar tareas. El proyecto tiene como objetivo enseñar fundamentos de React, manejo del estado, componentes reutilizables y buenas prácticas en desarrollo frontend.
 
+* Conceptos: Componentes, Props, State, Eventos.
+* Aprendizaje: Crear, eliminar y marcar tareas completadas.
+
 ## Objetivos de aprendizaje
 Al completar este proyecto, deberías ser capaz de:
 
