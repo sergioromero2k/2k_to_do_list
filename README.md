@@ -35,7 +35,7 @@ Al completar este proyecto, deberías ser capaz de:
 - Actualizar la interfaz automáticamente al modificar las tareas.  
 - (Opcional) Guardar las tareas en `localStorage` para persistencia.  
 
-## Bonus / Desafíos extra
+## Desafíos extra
 - Implementar filtrado de tareas: todas, completadas o pendientes.  
 - Agregar prioridad o categorías a las tareas.  
 - Añadir animaciones al agregar o eliminar tareas.  
@@ -43,5 +43,4 @@ Al completar este proyecto, deberías ser capaz de:
 
 ## Entregables
 - Código fuente completo en un repositorio de GitHub.  
-- README con descripción, tecnologías usadas y guía de uso.  
 - Capturas de pantalla o GIF mostrando la aplicación en funcionamiento.
