@@ -31,7 +31,7 @@ Al completar este proyecto, deberías ser capaz de:
 - Crear un README claro y profesional describiendo la aplicación y su uso.  
 
 ## Requisitos funcionales
-- Crear una interfaz que muestre la lista de tareas.  
+- Crear una interfaz que muestre la lista de tareas. 
 - Permitir al usuario agregar nuevas tareas con un formulario.  
 - Permitir marcar tareas como completadas.  
 - Permitir eliminar tareas individuales.  
