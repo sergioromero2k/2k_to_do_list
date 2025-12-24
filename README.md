@@ -47,3 +47,27 @@ Al completar este proyecto, deberías ser capaz de:
 ## Entregables
 - Código fuente completo en un repositorio de GitHub.  
 - Capturas de pantalla o GIF mostrando la aplicación en funcionamiento.
+
+## Estructura de Carpetas Recomendada
+```
+2k_to_do_list/
+├── public/
+├── src/
+│   ├── assets/            # Imágenes, iconos o estilos globales
+│   ├── components/        # Componentes reutilizables (UI)
+│   │   ├── TodoItem.jsx
+│   │   ├── TodoList.jsx
+│   │   ├── TodoForm.jsx
+│   │   └── FilterButtons.jsx
+│   ├── hooks/             # Custom hooks (ej. para localStorage)
+│   │   └── useLocalStorage.js
+│   ├── App.jsx            # Componente principal (Orquestador)
+│   ├── main.jsx           # Punto de entrada de React
+│   └── index.css          # Estilos globales o configuración de Tailwind
+├── .gitignore
+├── package.json
+└── README.md
+```
+
+### Truco
+* npm run dev -- --open -> Si quieres abrir automáticamente en el navegador.
